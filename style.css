@@ -1,0 +1,28 @@
+#top {
+    text-align: center;
+    font-size: 60px;
+    border-bottom: 1px black solid;
+    margin: 0;
+    padding: 20px;
+}
+#bottom {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+}
+#left {
+    text-align: left;
+    font-size: 20px;
+    border-right: 1px black solid;
+    margin: 0;
+    padding: 20px;
+}
+#right {
+    text-align: left;
+    font-size: 20px;
+    margin: 0;
+    padding: 20px;
+}
+iframe {
+    width: 2000px;
+    height: 2000px;
+}
