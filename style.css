@@ -7,11 +7,11 @@
 }
 #bottom {
     display: grid;
-    grid-template-columns: 300px 1fr;
+    grid-template-columns: 250px 1fr;
 }
 #left {
     text-align: left;
-    font-size: 20px;
+    font-size: 13px;
     border-right: 1px black solid;
     margin: 0;
     padding: 20px;
